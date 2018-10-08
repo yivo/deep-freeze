@@ -3,11 +3,11 @@
 
 Gem::Specification.new do |s|
   s.name                  = "deep-freeze"
-  s.version               = "1.0.0"
+  s.version               = "1.0.1"
   s.author                = "Yaroslav Konoplov"
   s.email                 = "eahome00@gmail.com"
   s.summary               = "Deep freeze Ruby enumerables."
-  s.description           = "The gem provides easy way to deep freeze Ruby enumerables."
+  s.description           = "A gem providing easy way to deep freeze Ruby enumerables."
   s.homepage              = "https://github.com/yivo/deep-freeze"
   s.license               = "MIT"
   s.files                 = `git ls-files -z`.split("\x0")

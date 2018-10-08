@@ -1,3 +1,3 @@
-# Deep freeze
+# deep-freeze
 
-The gem provides easy way to deep freeze Ruby enumerables.
+A gem providing easy way to deep freeze Ruby enumerables.
